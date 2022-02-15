@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d4f8b344-0c1d-df53-8f04-bb55f363e920
 ---
@@ -21,7 +23,7 @@ This class focusses on beliefs and practices about the supernatural, and their r
 
 *   _Witchcraft Beliefs and Witch Hunting_
 
-Special attention to the great European witch hunt of the 15th through 18th centuries: Shakespeare's _Macbeth_; Purcell's _Dido and Aeneas_; Verdi's _Macbeth_; Kurosawa's Throne _of Blood_.
+Special attention to the great European witch hunt of the 15{{< sup "th" >}} through 18{{< sup "th" >}} centuries: Shakespeare's _Macbeth_; Purcell's _Dido and Aeneas_; Verdi's _Macbeth_; Kurosawa's Throne _of Blood_.
 
 *   _Learned Magic_
 
@@ -30,7 +32,7 @@ Berlioz's _Symphonie Fantastique;_ Murnau's _Faust_.
 
 *   _Ghosts and Spirit Contact_
 
-Spiritualism and ghosts in 19th century America: James's _The Turn of the Screw_;  
+Spiritualism and ghosts in 19{{< sup "th" >}} century America: James's _The Turn of the Screw_;  
 Britten's _The Turn of the Screw_.
 
 Emphasis falls on **weekly listening and reading assignments**. There will be live performances by staff members, other faculty, and outside musicians and actors. Film adaptations and opera videos will be screened in the evening.

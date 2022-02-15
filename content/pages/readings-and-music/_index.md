@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Music
 uid: a876b1cb-4653-9898-f4e4-804ec0a8788f
 ---
@@ -427,7 +430,7 @@ Sternfeld, F. W. "Faust." In _New Grove Dictionary of Opera_. Oxford University 
 
 Huebner, Steven. "Faust (ii)." In _New Grove Dictionary of Opera_. Oxford University Press, 2004. Edited by Stanley Sadie. ISBN: 9780195221862.
 
-[Faust and 19th Century Orchestral Music (PDF)]({{< baseurl >}}/resources/mit21m_013jf13_ft19_och_msc)
+[Faust and 19{{< sup "th" >}} Century Orchestral Music (PDF)]({{< baseurl >}}/resources/mit21m_013jf13_ft19_och_msc)
 
 
 {{< tdclose >}}
