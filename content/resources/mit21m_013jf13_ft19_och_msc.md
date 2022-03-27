@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Music
 parent_type: CourseSection
+parent_uid: a876b1cb-4653-9898-f4e4-804ec0a8788f
 resourcetype: Document
 title: '21M.013J The Supernatural in Music: Literature and Culture: Faust Guide'
 uid: 764dd854-0ab4-447b-f328-d0e4256e5e7e

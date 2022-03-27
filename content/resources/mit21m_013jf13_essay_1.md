@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a1663d53-5501-0ba3-4a55-840ad5db9360
 resourcetype: Document
 title: '21M.013J The Supernatural in Music: Literature and Culture: Essay 1'
 uid: e516b30b-b712-0527-c914-592b4fce4f06

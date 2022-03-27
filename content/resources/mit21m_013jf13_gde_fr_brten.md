@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Music
 parent_type: CourseSection
+parent_uid: a876b1cb-4653-9898-f4e4-804ec0a8788f
 resourcetype: Document
 title: '21M.013J The Supernatural in Music: Literature and Culture: Guide for Britten''s
   Turn of the Screw'
