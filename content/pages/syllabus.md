@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on prerequisites,
+  requirements, assignments, attendance, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -68,14 +70,14 @@ Goethe, Johann Wolfgang von. _Goethe's Faust_. Translated and with an Introducti
 
 James, Henry. _The Turn of the Screw_. 2nd ed. Edited by Deborah Esch, and Jonathan Warren. W. W. Norton & Company, 1999. ISBN: 9780393959048.
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings-and-music) section.
+For additional readings, see the {{% resource_link a876b1cb-4653-9898-f4e4-804ec0a8788f "Readings" %}} section.
 
 Assignments
 -----------
 
 Students are required to write three essays, the first of which will require a revision and expansion. In addition, students will work on a final project with both an oral and written component.
 
-For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, see the {{% resource_link a1663d53-5501-0ba3-4a55-840ad5db9360 "Assignments" %}} section.
 
 Attendance
 ----------

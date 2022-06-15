@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of optional readings for further exploration
+  of the supernatural in music, literature, and culture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

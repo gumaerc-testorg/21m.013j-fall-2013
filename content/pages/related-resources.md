@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to library resources, music references, a
+  formatting and style guide, and a reference dictionary.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
