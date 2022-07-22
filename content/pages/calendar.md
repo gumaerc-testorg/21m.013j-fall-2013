@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, assignments, presentations,
+  screenings, the field trip, and live performances.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 05aed817-0d07-e1fe-010c-2c6b9d0b9460
 ---

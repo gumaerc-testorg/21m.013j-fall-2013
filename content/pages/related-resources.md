@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to library resources, music references, a
+  formatting and style guide, and a reference dictionary.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 59721e09-b41e-8762-84fb-2a7531f9a341
 ---
