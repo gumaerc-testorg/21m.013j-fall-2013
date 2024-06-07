@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding format essay.
 file: /courses/21m-013j-the-supernatural-in-music-literature-and-culture-fall-2013/d701bff744652d03bc5ff38f79868d80_MIT21M_013JF13_FormatEssay.pdf
+file_size: 561980
 file_type: application/pdf
 learning_resource_types:
 - Assignments
