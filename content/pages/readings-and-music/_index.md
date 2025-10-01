@@ -35,7 +35,7 @@ Introduction
 
 *Music*
 
-Song setting of Goethe's poem "Der Erlkönig" ([text](http://en.wikipedia.org/wiki/Der_Erlk%C3%B6nig#Text)) by Franz Schubert and Johann Friedrich Reichardt.
+Song setting of Goethe's poem "Der Erlkönig" ({{% resource_link "003fcea1-ffaf-4a8c-8030-55cc01a0c667" "text" %}}) by Franz Schubert and Johann Friedrich Reichardt.
 
 Schubert, Franz. "Erlkönig ('Wer reitet so spät')." *The Hyperion Schubert Edition 8 / Sarah Walker, Graham Johnson*. Hyperion UK CD, 1993.
 
@@ -90,7 +90,7 @@ Brooke, Nicholas, ed. "Introduction, Section 1: Illusion." In *The Oxford Shakes
 ———. "Introduction, Section 3: Baroque Drama." In *The Oxford Shakespeare: Macbeth*. Oxford University Press, 2008. ISBN: 9780199535835.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
-*Screening:* [*Throne of Blood*](http://www.imdb.com/title/tt0050613/?ref_=fn_al_tt_1). Directed by Akira Kurosawa. Black & White, 110 min. 1957.
+*Screening:* {{% resource_link "ea64e819-00ba-4fa8-9119-20212db3ee47" "*Throne of Blood*" %}}. Directed by Akira Kurosawa. Black & White, 110 min. 1957.
 {{< tdclose >}}{{< tdopen >}}
 
 *Reading*
@@ -105,17 +105,17 @@ Shakespeare, Kurosawa and context discussion
 
 *Readings*
 
-Greenblatt, Stephen. "Shakespeare Bewitched." Chapter 4 in *New Historical Literary Study: Essays on Reproducing Texts, Representing History*. Edited by Jeffrey N. Cox and Larry J. Reynolds. Princeton University Press, 1993. ISBN: 9780691015460. \[Preview with [Google Books](http://books.google.com/books?id=hkuDii4XxJsC&pg=PA108#v=onepage)\]
+Greenblatt, Stephen. "Shakespeare Bewitched." Chapter 4 in *New Historical Literary Study: Essays on Reproducing Texts, Representing History*. Edited by Jeffrey N. Cox and Larry J. Reynolds. Princeton University Press, 1993. ISBN: 9780691015460. \[Preview with {{% resource_link "887f17ca-0429-425b-a451-2cdd51f1d249" "Google Books" %}}\]
 
-Wills, Gary. "Introduction: The Trouble with Macbeth." In *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with [Google Books](http://books.google.com/books?id=7vXV585BiYYC&pg=PA1#v=onepage)\]
+Wills, Gary. "Introduction: The Trouble with Macbeth." In *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with {{% resource_link "5feb6286-c9a6-4c37-be95-ccada7a6ab25" "Google Books" %}}\]
 
-———. "Gunpowder." Chapter 1 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with [Google Books](http://books.google.com/books?id=7vXV585BiYYC&pg=PA11#v=onepage)\]
+———. "Gunpowder." Chapter 1 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with {{% resource_link "39879bd5-a59a-4679-aa37-abed884a129d" "Google Books" %}}\]
 
-———. "Witches." Chapter 2 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with [Google Books](http://books.google.com/books?id=7vXV585BiYYC&pg=PA33#v=onepage)\]
+———. "Witches." Chapter 2 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with {{% resource_link "ed41a32a-49a5-46c9-9e59-ed682ee1e183" "Google Books" %}}\]
 
-———. "Jesuits." Chapter 5 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with [Google Books](http://books.google.com/books?id=7vXV585BiYYC&pg=PA91#v=onepage)\]
+———. "Jesuits." Chapter 5 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with {{% resource_link "9e7ae0e3-ea73-4762-be49-6955845a5b97" "Google Books" %}}\]
 
-———. "Male Witch." Chapter 3 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with [Google Books](http://books.google.com/books?id=7vXV585BiYYC&pg=PA51#v=onepage)\] *(Optional)*
+———. "Male Witch." Chapter 3 in *Witches & Jesuits: Shakespeare's Macbeth*. Oxford University Press, 1996. ISBN: 9780195102901. \[Preview with {{% resource_link "cbb8b52d-f73f-4f0e-9589-9bd8e390f7f0" "Google Books" %}}\] *(Optional)*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -125,7 +125,7 @@ Purcell, *Dido and Aeneas*
 
 *Reading*
 
-Price, Curtis A. "Dido and Aeneas: The Allegory." Chapter 5 in *Henry Purcell and the London Stage*. Cambridge University Press, 2009, pp. 229–34. ISBN: 9780521105156. \[Preview with [Google Books](http://books.google.com/books?id=E7E8AAAAIAAJ&pg=PA225#v=onepage)\]
+Price, Curtis A. "Dido and Aeneas: The Allegory." Chapter 5 in *Henry Purcell and the London Stage*. Cambridge University Press, 2009, pp. 229–34. ISBN: 9780521105156. \[Preview with {{% resource_link "1ff15f08-b536-4dc4-8e2d-d6b535bfffbc" "Google Books" %}}\]
 
 *Music*
 
@@ -161,7 +161,7 @@ Excerpts from Act 3:
 
 *Tre volte miagola la gatta in fregola Ballo Finche appeli Fuggi, regal fantasima Ondine e Silfidi*
 
-[*Macbeth libretto*](http://www.operafolio.com/libretto.asp?n=Macbeth&translation=UK), operafolio.com.
+{{% resource_link "f2372be3-c753-4727-96a6-ee57dbbd9597" "*Macbeth libretto*" %}}, operafolio.com.
 
 Berlioz, Hector. *Symphonie Fantastique*. Mvmt. 1, 2, 4 and 5. Roger Norrington, conductor. The London Classical Players. Virgin Classics CD, 2006.
 
@@ -179,17 +179,17 @@ Verdi's *Macbeth*
 
 *Readings*
 
-Parker, Roger. "Macbeth." In *The New Grove Guide to Verdi and His Operas*. Oxford University Press, 2007. ISBN: 9780195313147. \[Preview with [Google Books](http://books.google.com/books?id=SsyteVUqV5wC&pg=PA98#v=onepage)\]
+Parker, Roger. "Macbeth." In *The New Grove Guide to Verdi and His Operas*. Oxford University Press, 2007. ISBN: 9780195313147. \[Preview with {{% resource_link "afae25f6-ab70-4e73-b105-4640a07dbdb1" "Google Books" %}}\]
 
-Albright, Daniel. "Shakespeare's Random." Chapter 10 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with [Google Books](http://books.google.com/books?id=s9H1SwjmavsC&pg=PA117#v=onepage)\]
+Albright, Daniel. "Shakespeare's Random." Chapter 10 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with {{% resource_link "952a7711-7c33-4f6e-ba0a-ea2b9e2f0ff2" "Google Books" %}}\]
 
-———. "Magic as Theft." Chapter 11 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with [Google Books](http://books.google.com/books?id=s9H1SwjmavsC&pg=PA121#v=onepage)\]
+———. "Magic as Theft." Chapter 11 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with {{% resource_link "58556416-a263-451f-8b45-13bd652e931c" "Google Books" %}}\]
 
-———. "Prophesying." Chapter 12 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with [Google Books](http://books.google.com/books?id=s9H1SwjmavsC&pg=PA123#v=onepage)\]
+———. "Prophesying." Chapter 12 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with {{% resource_link "07b842c6-c57b-4170-ba9e-674577a63486" "Google Books" %}}\]
 
-———. "Squinting at Consequences." Chapter 13 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with [Google Books](http://books.google.com/books?id=s9H1SwjmavsC&pg=PA126#v=onepage)\]
+———. "Squinting at Consequences." Chapter 13 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with {{% resource_link "170f2e76-6faf-4aa3-a222-680cb3e5b69a" "Google Books" %}}\]
 
-———. "Witches Amok." Chapter 17 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with [Google Books](http://books.google.com/books?id=s9H1SwjmavsC&pg=PA142#v=onepage)\]
+———. "Witches Amok." Chapter 17 in *Musicking Shakespeare: A Conflict of Theatres*. BOYE6, 2007. ISBN: 9781580462556. \[Preview with {{% resource_link "026e2eec-3825-41fa-a287-ca874bc5e865" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **II. Learned Magic**
@@ -202,29 +202,29 @@ Introduction to learned magic and alchemy 
 
 *Readings*
 
-Kiechefer, Richard. "Arabic Learning and the Occult Sciences." Chapter 6 in *Magic in the Middle Ages*. Cambridge University Press, 2000, pp. 116–9, and pp. 133–65. ISBN: 9780521785761. \[Preview with [Google Books](http://books.google.com/books?id=Iw6ipCq-pZsC&pg=PA116#v=onepage)\]
+Kiechefer, Richard. "Arabic Learning and the Occult Sciences." Chapter 6 in *Magic in the Middle Ages*. Cambridge University Press, 2000, pp. 116–9, and pp. 133–65. ISBN: 9780521785761. \[Preview with {{% resource_link "59694138-1bb1-454f-afb4-0e1a797c7a3f" "Google Books" %}}\]
 
-Grafton, Anthony. "The Master of Time." Chapter 1 in *Cardano's Cosmos: The Worlds and Works of a Renaissance Astrologer*. Harvard University Press, 2001. ISBN: 9780674006706. \[Preview with [Google Books](http://books.google.com/books?id=GhkxjStiZfwC&pg=PAfrontcover)\]
+Grafton, Anthony. "The Master of Time." Chapter 1 in *Cardano's Cosmos: The Worlds and Works of a Renaissance Astrologer*. Harvard University Press, 2001. ISBN: 9780674006706. \[Preview with {{% resource_link "ea993526-e040-4ce2-a40b-e7e69a54ad83" "Google Books" %}}\]
 
-———. "The Astrologer's Practice." Chapter 2 in *Cardano's Cosmos: The Worlds and Works of a Renaissance Astrologer*. Harvard University Press, 2001. ISBN: 9780674006706. \[Preview with [Google Books](http://books.google.com/books?id=GhkxjStiZfwC&pg=PAfrontcover)\]
+———. "The Astrologer's Practice." Chapter 2 in *Cardano's Cosmos: The Worlds and Works of a Renaissance Astrologer*. Harvard University Press, 2001. ISBN: 9780674006706. \[Preview with {{% resource_link "ea993526-e040-4ce2-a40b-e7e69a54ad83" "Google Books" %}}\]
 
 Maxwell-Stuart, P.G. "The Ritual Magician and his Work." In *Wizards: A History*. The History Press, Limited, 2007, pp. 13–32. ISBN: 9780752441276.
 
  ———. "The Patterns and Aims of a Ritual Magician." In *Wizards: A History*. The History Press, Limited, 2007, pp. 77–81. ISBN: 9780752441276.
 
-[The Chymistry of Isaac Newton: Multimedia Lab](http://webapp1.dlib.indiana.edu/newton/reference/chemLab.do), indiana.edu.
+{{% resource_link "24f15f59-d2e5-44a7-8560-a741ab1b5fd3" "The Chymistry of Isaac Newton: Multimedia Lab" %}}, indiana.edu.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Visit to [MIT Libraries Special Collections](http://libraries.mit.edu/collections/)
+Visit to {{% resource_link "13245b0b-f885-44a7-a138-2e0ac65cc93e" "MIT Libraries Special Collections" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
 {{% resource_link 78cce113-fc4a-4125-b3c2-bd6104a15927 "Special Collections booklist (PDF)" %}}
 
-[Photo highlights from books on magic](https://plus.google.com/photos/110833393795811063052/albums/5799730076063966049?authkey=CKjbi9fB2sjJLQ), google.com.
+{{% resource_link "e8af3f70-56e6-4d21-b8e3-df11901c9233" "Photo highlights from books on magic" %}}, google.com.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -256,7 +256,7 @@ Murnau's *Faust*, Marlowe's *Faust*, and the Faust puppet play
 
 Ott, Frederick W. "Faust." In *The Great German Films: From Before World War I to the Present*. Citadel, 1991. ISBN: 9780806512181.
 
-Excerpt from [*The Tragical History of Doctor Faustus*](http://www.gutenberg.org/files/811/811-h/811-h.htm) by Christopher Marlowe. *(Read from "OLD MAN. O gentle Faustus…'' to the end.)*
+Excerpt from {{% resource_link "e64aceec-cada-47f8-9432-0ebf701d6533" "*The Tragical History of Doctor Faustus*" %}} by Christopher Marlowe. *(Read from "OLD MAN. O gentle Faustus…'' to the end.)*
 
 Excerpts from {{% resource_link 281445b2-5f97-d5d2-b3b2-ebb5abc66222 "Dr. Johannes Faustus' Puppet Play (PDF)" %}}
 
@@ -301,15 +301,15 @@ Henry James and Spiritualism 
 
 *Readings*
 
-Braude, Ann. "Introduction: My Soul's Thraldom and Its Deliverance." In *Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America*. 2nd ed. Indiana University Press, 2001. ISBN: 9780253215024. \[Preview with [Google Books](http://books.google.com/books?id=8XuLgZlTR7MC&pg=PA1#v=onepage)\]
+Braude, Ann. "Introduction: My Soul's Thraldom and Its Deliverance." In *Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America*. 2nd ed. Indiana University Press, 2001. ISBN: 9780253215024. \[Preview with {{% resource_link "57f3bff8-cb43-4ce8-bae3-687469ed0cf4" "Google Books" %}}\]
 
-———. "Unbroken Communication between the Infinite and All Beings." Chapter 1 in *Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America*. 2nd ed. Indiana University Press, 2001. ISBN: 9780253215024. \[Preview with [Google Books](http://books.google.com/books?id=8XuLgZlTR7MC&pg=PA10#v=onepage)\]
+———. "Unbroken Communication between the Infinite and All Beings." Chapter 1 in *Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America*. 2nd ed. Indiana University Press, 2001. ISBN: 9780253215024. \[Preview with {{% resource_link "7285fc7e-2653-4f08-8a67-8757e457d3cf" "Google Books" %}}\]
 
-———. "The Blessedness of Sinless Childhood in the World Beyond." Chapter 2 in *Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America*. 2nd ed. Indiana University Press, 2001. ISBN: 9780253215024. \[Preview with [Google Books](http://books.google.com/books?id=8XuLgZlTR7MC&pg=PA32#v=onepage)\] *(Optional)*
+———. "The Blessedness of Sinless Childhood in the World Beyond." Chapter 2 in *Radical Spirits: Spiritualism and Women's Rights in Nineteenth-Century America*. 2nd ed. Indiana University Press, 2001. ISBN: 9780253215024. \[Preview with {{% resource_link "1f3b2df1-654d-49c0-b503-029396a83651" "Google Books" %}}\] *(Optional)*
 
 Fisher, Paul. "Spirits." Chapter 14 in *House of Wits: An Intimate Portrait of the James Family*. Henry Holt and Company, 2008, pp. 474–80. ISBN: 9780805074901.
 
-Jones, Vivien. "Henry James's 'The Turn of the Screw'." Chapter 1 in *Benjamin Britten: The Turn of the Screw*. Edited by Patricia Howard. Cambridge University Press, 1985. ISBN: 9780521283564. \[Preview with [Google Books](http://books.google.com/books?id=PzU_IX5ICvkC&pg=PA1#v=onepage)\]
+Jones, Vivien. "Henry James's 'The Turn of the Screw'." Chapter 1 in *Benjamin Britten: The Turn of the Screw*. Edited by Patricia Howard. Cambridge University Press, 1985. ISBN: 9780521283564. \[Preview with {{% resource_link "5c0b6c51-01c0-4aa2-b0ce-acbf1e3a8511" "Google Books" %}}\]
 
 Beidler, Peter. "Motifs of the Ghost-Case Tradition." Chapter 3 in *Ghosts, Demons, and Henry James: The Turn of the Screw at the Turn of the Century*. University of Missouri Press, 1989, pp. 76–101. ISBN: 9780826206848.
 
@@ -321,7 +321,7 @@ Cloutier, Crista. "Mumler's Ghosts." In *The Perfect Medium: Photography and the
 
 Fischer, Andreas. "The Reciprocal Adaptation of Optics and Phenomena." In *The Perfect Medium: Photography and the Occult*. Edited by Clément Chéroux, Andreas Fischer, et al. Yale University Press, 2005. ISBN: 9780300111361.
 
-Richardson, Robert D. *William James: In the Maelstrom of American Modernism*. Mariner Books, 2007, pp. 257–65, 478–9, and 506–8. ISBN: 9780618919895. \[Preview with [Google Books](http://books.google.com/books?id=bZsKAIrzW4EC&pg=PA257#v=onepage)\]
+Richardson, Robert D. *William James: In the Maelstrom of American Modernism*. Mariner Books, 2007, pp. 257–65, 478–9, and 506–8. ISBN: 9780618919895. \[Preview with {{% resource_link "2f613858-1e08-471a-936c-e6ac57424d47" "Google Books" %}}\]
 
 Gaskell, Elizabeth. "The Old Nurse's Story." In *Victorian Ghost Stories: An Oxford Anthology*. Edited by Michael Cox and R. A. Gilbert. Oxford University Press, 1993. ISBN: 9780192829993.
 
@@ -355,7 +355,7 @@ Music of Britten's *The Turn of the Screw*
 
 {{% resource_link cf7e53b8-ac81-14e1-c5bd-8fe607dc359c "Britten's Turn of the Screw: A Basic Guide (PDF)" %}}
 
-Howard, Patricia. "Myfanwy Piper's 'The Turn of the Screw': Libretto and Synopsis." Chapter 2 in *Benjamin Britten: The Turn of the Screw*. Edited by Patricia Howard. Cambridge University Press, 1985. ISBN: 9780521283564. \[Preview with [Google Books](http://books.google.com/books?id=PzU_IX5ICvkC&pg=PAfrontcover)\]
+Howard, Patricia. "Myfanwy Piper's 'The Turn of the Screw': Libretto and Synopsis." Chapter 2 in *Benjamin Britten: The Turn of the Screw*. Edited by Patricia Howard. Cambridge University Press, 1985. ISBN: 9780521283564. \[Preview with {{% resource_link "a9ac3856-ff33-4eb3-a34e-2b966fd2dbf5" "Google Books" %}}\]
 
 For students with considerable musical experience:
 
@@ -363,7 +363,7 @@ Evans, Peter. *The Music of Benjamin Britten*. Oxford University Press, 1996, pp
 
 For students with less musical experience:
 
-White, Eric Walter. "The Turn of the Screw." Chapter 9 in *Benjamin Britten: His Life and Operas*. University of California Press, 1983. ISBN: 9780520048942. \[Preview with [Google Books](http://books.google.com/books?id=WUPPVlD7UnwC&pg=PA202=onepage)\]
+White, Eric Walter. "The Turn of the Screw." Chapter 9 in *Benjamin Britten: His Life and Operas*. University of California Press, 1983. ISBN: 9780520048942. \[Preview with {{% resource_link "0a456ad2-8ccd-42e4-a5c6-fdc2322365da" "Google Books" %}}\]
 
 *Music*
 
