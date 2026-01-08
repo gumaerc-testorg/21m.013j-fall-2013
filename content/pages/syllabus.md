@@ -44,7 +44,7 @@ A total of 20 pages divided into three papers (one with required revision and ex
 
 ### Class Participation
 
-As part of the {{% resource_link "49a3851f-09ad-4fb4-be6d-7124e4a124c9" "CI" %}} requirement of this class, students are required to attend lectures and recitations and to participate actively. At least one hour per week will be devoted to discussion.
+As part of the [CI](http://web.mit.edu/commreq/) requirement of this class, students are required to attend lectures and recitations and to participate actively. At least one hour per week will be devoted to discussion.
 
 ### Oral Presentations
 
